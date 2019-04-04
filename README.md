@@ -7,7 +7,7 @@ late-bound method.
 
 Another way to get generic code in Forth is to compile the code multiple times
 with the code's dependent words defined for it. This is more similar to a
-higher-order module in a language like OCaml, and an advantage of this
+parameterized module in a language like OCaml, and an advantage of this
 technique for Forth is that it allows for better optimization of each version
 of QSORT
 
